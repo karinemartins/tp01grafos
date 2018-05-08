@@ -1,0 +1,5 @@
+c:\users\karin\documents\visual studio 2017\Projects\TP01\TP01\bin\Debug\TP01.exe.config
+c:\users\karin\documents\visual studio 2017\Projects\TP01\TP01\bin\Debug\TP01.exe
+c:\users\karin\documents\visual studio 2017\Projects\TP01\TP01\bin\Debug\TP01.pdb
+c:\users\karin\documents\visual studio 2017\Projects\TP01\TP01\obj\Debug\TP01.exe
+c:\users\karin\documents\visual studio 2017\Projects\TP01\TP01\obj\Debug\TP01.pdb
